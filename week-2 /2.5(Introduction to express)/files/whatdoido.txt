@@ -1,0 +1,1 @@
+recently i joined as a SDE intern and i'm learning how to build product even tho it doesn't feel like working with big codebase but i'm learning and learning and implementing and now today i've learnt how do i break things and find the bugs manually
