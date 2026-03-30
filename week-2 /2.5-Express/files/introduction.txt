@@ -1,2 +1,0 @@
-Hello my self Rachit and i'm learning full stack development and it's my first assignment to do and the task is to return the files inside the files directory 
- 
